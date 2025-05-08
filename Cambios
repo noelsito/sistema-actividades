@@ -1,0 +1,6 @@
+# Añadir y hacer commit
+git add actividades.txt
+git commit -m "Versión 1.1: Se añadió nueva actividad y se reorganizó el sistema"
+
+# Subir a GitHub
+git push origin main
